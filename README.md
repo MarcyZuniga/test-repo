@@ -1,5 +1,4 @@
 # test-repo
-test-repo
 Introduction
 TODO: This is a list of scipts that displays the assets. The object is to list every service that is running when working on the cloud and query resources.
 
